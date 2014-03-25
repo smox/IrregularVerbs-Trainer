@@ -12,10 +12,10 @@ public class Program {
 		int points = 0;
 		String input = null, input2 = null;
 		
-		System.out.println("Irregular Verbs Trainer v0.1.1\n");
+		System.out.println("Irregular Verbs Trainer v0.1.2\n");
 		System.out.println("Hier wird dir nacheinander die erste Zeitform eines Wortes angezeigt \n"
 				+ "und du musst die 2. und 3. Form per Hand eingeben!\n");
-		System.out.println("ACHTUNG: Du musst auch auf die richtige Recht-, Groß- \n"
+		System.out.println("ACHTUNG: Du musst auch auf die richtige Recht-, Gro\u00df- \n"
 				+ "und Kleinschreibung achten\n");
 		System.out.println("Sollte es mehr Schreibweisen geben, ist immer die mit der Endung -ed gemeint!\n");
 		System.out.println("Los gehts!!");
