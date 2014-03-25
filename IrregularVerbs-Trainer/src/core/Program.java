@@ -16,8 +16,8 @@ public class Program {
 		System.out.println("Hier wird dir nacheinander die erste Zeitform eines Wortes angezeigt \n"
 				+ "und du musst die 2. und 3. Form per Hand eingeben!\n");
 		System.out.println("ACHTUNG: Du musst auch auf die richtige Recht-, Groß- \n"
-				+ "und Keinschreibung achten\n");
-		System.out.println("Sollte es mehr Schreibweisen geben, ist immer die mit der endung -ed gemeint!\n");
+				+ "und Kleinschreibung achten\n");
+		System.out.println("Sollte es mehr Schreibweisen geben, ist immer die mit der Endung -ed gemeint!\n");
 		System.out.println("Los gehts!!");
 		
 		//laufe solange bis eof auf true gesetzt wird..
