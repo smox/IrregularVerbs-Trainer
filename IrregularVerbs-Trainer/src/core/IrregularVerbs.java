@@ -484,9 +484,9 @@ public class IrregularVerbs {
 				pastParticipate = "written";
 				break;
 			default:
-				infinitiv = "Error!! Undefinied!";
-				pastSimple = "Error! Undefinied!";
-				pastParticipate = "Error! Undefinied!";
+				infinitiv = "Error!! Undefined!";
+				pastSimple = "Error! Undefined!";
+				pastParticipate = "Error! Undefined!";
 				break;
 		}	
 	}
